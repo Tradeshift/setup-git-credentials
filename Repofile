@@ -1,0 +1,6 @@
+{
+    "description": "GitHub action to clone private respositories",
+    "checks": [
+        "check_pr"
+    ]
+}
